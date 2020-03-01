@@ -1,0 +1,7 @@
+D:\C#\Homework2\PrimeNum\PrimeNum\bin\Debug\PrimeNum.exe.config
+D:\C#\Homework2\PrimeNum\PrimeNum\bin\Debug\PrimeNum.exe
+D:\C#\Homework2\PrimeNum\PrimeNum\bin\Debug\PrimeNum.pdb
+D:\C#\Homework2\PrimeNum\PrimeNum\obj\Debug\PrimeNum.csprojAssemblyReference.cache
+D:\C#\Homework2\PrimeNum\PrimeNum\obj\Debug\PrimeNum.csproj.CoreCompileInputs.cache
+D:\C#\Homework2\PrimeNum\PrimeNum\obj\Debug\PrimeNum.exe
+D:\C#\Homework2\PrimeNum\PrimeNum\obj\Debug\PrimeNum.pdb

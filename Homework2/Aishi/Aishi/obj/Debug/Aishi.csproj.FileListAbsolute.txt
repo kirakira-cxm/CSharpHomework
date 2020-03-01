@@ -1,0 +1,7 @@
+D:\C#\Homework2\Aishi\Aishi\bin\Debug\Aishi.exe.config
+D:\C#\Homework2\Aishi\Aishi\bin\Debug\Aishi.exe
+D:\C#\Homework2\Aishi\Aishi\bin\Debug\Aishi.pdb
+D:\C#\Homework2\Aishi\Aishi\obj\Debug\Aishi.csprojAssemblyReference.cache
+D:\C#\Homework2\Aishi\Aishi\obj\Debug\Aishi.csproj.CoreCompileInputs.cache
+D:\C#\Homework2\Aishi\Aishi\obj\Debug\Aishi.exe
+D:\C#\Homework2\Aishi\Aishi\obj\Debug\Aishi.pdb

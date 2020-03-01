@@ -1,0 +1,7 @@
+D:\C#\Homework2\ShuzuYuansu\ShuzuYuansu\bin\Debug\ShuzuYuansu.exe.config
+D:\C#\Homework2\ShuzuYuansu\ShuzuYuansu\bin\Debug\ShuzuYuansu.exe
+D:\C#\Homework2\ShuzuYuansu\ShuzuYuansu\bin\Debug\ShuzuYuansu.pdb
+D:\C#\Homework2\ShuzuYuansu\ShuzuYuansu\obj\Debug\ShuzuYuansu.csproj.CoreCompileInputs.cache
+D:\C#\Homework2\ShuzuYuansu\ShuzuYuansu\obj\Debug\ShuzuYuansu.exe
+D:\C#\Homework2\ShuzuYuansu\ShuzuYuansu\obj\Debug\ShuzuYuansu.pdb
+D:\C#\Homework2\ShuzuYuansu\ShuzuYuansu\obj\Debug\ShuzuYuansu.csprojAssemblyReference.cache
