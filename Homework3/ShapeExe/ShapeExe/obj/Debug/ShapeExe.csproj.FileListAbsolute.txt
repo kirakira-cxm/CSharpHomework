@@ -1,0 +1,7 @@
+D:\C#\Homework3\ShapeExe\ShapeExe\bin\Debug\ShapeExe.exe.config
+D:\C#\Homework3\ShapeExe\ShapeExe\bin\Debug\ShapeExe.exe
+D:\C#\Homework3\ShapeExe\ShapeExe\bin\Debug\ShapeExe.pdb
+D:\C#\Homework3\ShapeExe\ShapeExe\obj\Debug\ShapeExe.csprojAssemblyReference.cache
+D:\C#\Homework3\ShapeExe\ShapeExe\obj\Debug\ShapeExe.csproj.CoreCompileInputs.cache
+D:\C#\Homework3\ShapeExe\ShapeExe\obj\Debug\ShapeExe.exe
+D:\C#\Homework3\ShapeExe\ShapeExe\obj\Debug\ShapeExe.pdb
