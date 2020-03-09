@@ -1,0 +1,7 @@
+D:\C#\Homework4\Generic\Generic\bin\Debug\Generic.exe.config
+D:\C#\Homework4\Generic\Generic\bin\Debug\Generic.exe
+D:\C#\Homework4\Generic\Generic\bin\Debug\Generic.pdb
+D:\C#\Homework4\Generic\Generic\obj\Debug\Generic.csprojAssemblyReference.cache
+D:\C#\Homework4\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+D:\C#\Homework4\Generic\Generic\obj\Debug\Generic.exe
+D:\C#\Homework4\Generic\Generic\obj\Debug\Generic.pdb
