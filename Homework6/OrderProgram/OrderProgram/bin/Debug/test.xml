@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderList>
+      <OrderItem>
+        <goodsName>西瓜</goodsName>
+        <goodsQuan>2</goodsQuan>
+        <goodsPrice>15</goodsPrice>
+      </OrderItem>
+    </OrderList>
+    <clientID>chord</clientID>
+    <OrderID>123</OrderID>
+  </Order>
+  <Order>
+    <OrderList>
+      <OrderItem>
+        <goodsName>苹果</goodsName>
+        <goodsQuan>3</goodsQuan>
+        <goodsPrice>17</goodsPrice>
+      </OrderItem>
+      <OrderItem>
+        <goodsName>苹果</goodsName>
+        <goodsQuan>12</goodsQuan>
+        <goodsPrice>10</goodsPrice>
+      </OrderItem>
+      <OrderItem>
+        <goodsName>梨子</goodsName>
+        <goodsQuan>4</goodsQuan>
+        <goodsPrice>5</goodsPrice>
+      </OrderItem>
+    </OrderList>
+    <clientID>blossom</clientID>
+    <OrderID>456</OrderID>
+  </Order>
+</ArrayOfOrder>
