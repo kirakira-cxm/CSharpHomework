@@ -1,0 +1,15 @@
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\bin\Debug\OrderServiceWFA.exe.config
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\bin\Debug\OrderServiceWFA.exe
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\bin\Debug\OrderServiceWFA.pdb
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\bin\Debug\OrderProgram.exe
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\bin\Debug\OrderProgram.pdb
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\bin\Debug\OrderProgram.exe.config
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\obj\Debug\OrderServiceWFA.csprojAssemblyReference.cache
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\obj\Debug\OrderServiceWFA.Form1.resources
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\obj\Debug\OrderServiceWFA.Properties.Resources.resources
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\obj\Debug\OrderServiceWFA.csproj.GenerateResource.cache
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\obj\Debug\OrderServiceWFA.csproj.CoreCompileInputs.cache
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\obj\Debug\OrderServiceWFA.csproj.CopyComplete
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\obj\Debug\OrderServiceWFA.exe
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\obj\Debug\OrderServiceWFA.pdb
+D:\C#\Homework6\OrderProgram\OrderServiceWFA\obj\Debug\OrderServiceWFA.Form2.resources

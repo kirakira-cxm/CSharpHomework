@@ -1,0 +1,14 @@
+D:\C#\Homework5\OrderProgram\OrderProgram\bin\Debug\OrderProgram.exe.config
+D:\C#\Homework5\OrderProgram\OrderProgram\bin\Debug\OrderProgram.exe
+D:\C#\Homework5\OrderProgram\OrderProgram\bin\Debug\OrderProgram.pdb
+D:\C#\Homework5\OrderProgram\OrderProgram\obj\Debug\OrderProgram.csprojAssemblyReference.cache
+D:\C#\Homework5\OrderProgram\OrderProgram\obj\Debug\OrderProgram.csproj.CoreCompileInputs.cache
+D:\C#\Homework5\OrderProgram\OrderProgram\obj\Debug\OrderProgram.exe
+D:\C#\Homework5\OrderProgram\OrderProgram\obj\Debug\OrderProgram.pdb
+D:\C#\Homework6\OrderProgram\OrderProgram\bin\Debug\OrderProgram.exe.config
+D:\C#\Homework6\OrderProgram\OrderProgram\bin\Debug\OrderProgram.exe
+D:\C#\Homework6\OrderProgram\OrderProgram\bin\Debug\OrderProgram.pdb
+D:\C#\Homework6\OrderProgram\OrderProgram\obj\Debug\OrderProgram.csprojAssemblyReference.cache
+D:\C#\Homework6\OrderProgram\OrderProgram\obj\Debug\OrderProgram.csproj.CoreCompileInputs.cache
+D:\C#\Homework6\OrderProgram\OrderProgram\obj\Debug\OrderProgram.exe
+D:\C#\Homework6\OrderProgram\OrderProgram\obj\Debug\OrderProgram.pdb
