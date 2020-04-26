@@ -1,0 +1,7 @@
+D:\C#\Homework9\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe.config
+D:\C#\Homework9\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe
+D:\C#\Homework9\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.pdb
+D:\C#\Homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csprojAssemblyReference.cache
+D:\C#\Homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csproj.CoreCompileInputs.cache
+D:\C#\Homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.exe
+D:\C#\Homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.pdb
